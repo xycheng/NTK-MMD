@@ -2,6 +2,6 @@
 
 Pytorch code to reproduce the numerical results in
 
+X. Cheng and Y. Xie. "Neural Tangent Kernel Maximum Mean Discrepancy". arXiv:2106.03227, 2021
+url: https://arxiv.org/abs/2106.03227
 
-
-X. Cheng and Y. Xie, "Neural Tangent Kernel Maximum Mean Discrepancy"
